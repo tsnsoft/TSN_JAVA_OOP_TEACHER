@@ -6,7 +6,7 @@
 
 ![srcreenshot](uml.png)
 
-[Крутая javadoc к этому проекту](/javadoc/index.html)
+[Крутая javadoc к этому проекту](/docs/index.html)
 
 * Создать в NetBeans заготовки документации:
 **Сервис -> Анализ документации Javadoc**
